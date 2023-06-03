@@ -1,0 +1,19 @@
+{
+    "feedback": [
+        {
+            "id": 1,
+            "rating": 10,
+            "text": "This is test feedback from json file"
+        },
+        {
+            "id": 2,
+            "rating": 9,
+            "text": "Mast Item"
+        },
+        {
+            "id": 3,
+            "rating": 3,
+            "text": "Nasha Karte ho Kia"
+        }
+    ]
+}
